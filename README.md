@@ -1,7 +1,5 @@
 # Hello, I'm Fajar 👋
 
-<img src="https://avatars.githubusercontent.com/u/157327168?v=4" align="right" width="150"/>
-
 ## About Me
 - 💻 Backend Developer | Laravel Enthusiast
 - 🚀 Passionate about building scalable web applications
