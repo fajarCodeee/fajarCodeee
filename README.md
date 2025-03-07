@@ -27,7 +27,11 @@
 
 ## Fun Facts
 - 📚 I enjoy reading tech blogs & exploring new frameworks  
-- 🎮 Gaming is my way to recharge creativity  
+- 🎮 Gaming is my way to recharge creativity
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 
 ## Support Me
 If you like my work, consider buying me a coffee:
