@@ -1,6 +1,6 @@
 # Hello, I'm Fajar 👋
 
-<img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" align="right" width="150"/>
+<img src="https://avatars.githubusercontent.com/u/157327168?v=4" align="right" width="150"/>
 
 ## About Me
 - 💻 Software Developer
